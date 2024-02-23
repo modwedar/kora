@@ -1,8 +1,8 @@
 {
-  'android':{
-  'versionCode':1
+  "android": {
+    "versionCode": 1
   },
-  'ios':{
-    'versionCode':1
+  "ios": {
+    "versionCode": 1
   }
 }
